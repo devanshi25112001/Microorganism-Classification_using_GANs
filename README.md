@@ -18,7 +18,7 @@
 The findings from this research are discussed in a detailed paper available at: [Springer Link](https://link.springer.com/article/10.1007/s43538-024-00247-4).
 
 ## Contributions and Acknowledgements
-Thanks to Vedansh and Devanshi.
+Thanks to Devanshi and Vedansh.
 
 ## Dataset
 The `micro-dataset.zip` contains the original images of Paramecium and Hydra.
